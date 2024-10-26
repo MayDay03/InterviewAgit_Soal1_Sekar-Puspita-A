@@ -29,8 +29,6 @@
                                 <asp:BoundField DataField="Rabu" HeaderText="Rabu" />
                                 <asp:BoundField DataField="Kamis" HeaderText="Kamis" />
                                 <asp:BoundField DataField="Jumat" HeaderText="Jumat" />
-                                <asp:BoundField DataField="Sabtu" HeaderText="Sabtu" />
-                                <asp:BoundField DataField="Minggu" HeaderText="Minggu" />
                             </Columns>
                         </asp:GridView>
                     </div>
